@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-from magnumopus import ispcr, needleman_wunsch
+from isPCR import ispcr, needleman_wunsch
 import argparse
 
 
